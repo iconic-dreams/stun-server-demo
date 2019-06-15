@@ -1,0 +1,34 @@
+{
+    "name": "stun-server",
+    "description": "WebRTC STUN Server Demo",
+    "version": "0.1.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": {
+        "name": "Lauro Moraes",
+        "email": "subversivo58@gmail.com",
+        "url": "https://github.com/subversivo58"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iconic-dreams/stun-server-demo.git"
+    },
+    "keywords": [
+        "signaling",
+        "socket"
+    ],
+    "dependencies": {
+        "stun": "^1.3.0"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/iconic-dreams/stun-server-demo/issues"
+    },
+    "engines": {
+        "node": "10.x",
+        "npm": "6.x"
+    },
+    "private": true
+}
